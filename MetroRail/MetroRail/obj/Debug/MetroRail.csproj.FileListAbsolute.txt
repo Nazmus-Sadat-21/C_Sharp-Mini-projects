@@ -1,0 +1,12 @@
+D:\C#\MetroRail\MetroRail\bin\Debug\MetroRail.exe.config
+D:\C#\MetroRail\MetroRail\bin\Debug\MetroRail.exe
+D:\C#\MetroRail\MetroRail\bin\Debug\MetroRail.pdb
+D:\C#\MetroRail\MetroRail\obj\Debug\MetroRail.csproj.AssemblyReference.cache
+D:\C#\MetroRail\MetroRail\obj\Debug\MetroRail.Form1.resources
+D:\C#\MetroRail\MetroRail\obj\Debug\MetroRail.Properties.Resources.resources
+D:\C#\MetroRail\MetroRail\obj\Debug\MetroRail.csproj.GenerateResource.cache
+D:\C#\MetroRail\MetroRail\obj\Debug\MetroRail.csproj.CoreCompileInputs.cache
+D:\C#\MetroRail\MetroRail\obj\Debug\MetroRail.exe
+D:\C#\MetroRail\MetroRail\obj\Debug\MetroRail.pdb
+D:\C#\MetroRail\MetroRail\obj\Debug\MetroRail.exe.config
+D:\C#\MetroRail\MetroRail\obj\Debug\MetroRail.Payment.resources
