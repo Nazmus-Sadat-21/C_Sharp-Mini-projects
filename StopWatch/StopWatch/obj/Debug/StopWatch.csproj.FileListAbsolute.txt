@@ -1,0 +1,11 @@
+D:\C#\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+D:\C#\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+D:\C#\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+D:\C#\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+D:\C#\StopWatch\StopWatch\obj\Debug\StopWatch.Form1.resources
+D:\C#\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+D:\C#\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+D:\C#\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+D:\C#\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+D:\C#\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
+D:\C#\StopWatch\StopWatch\obj\Debug\StopWatch.exe.config
