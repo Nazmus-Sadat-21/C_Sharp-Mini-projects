@@ -1,0 +1,14 @@
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\bin\Debug\Online_Bus_Ticket.exe.config
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\bin\Debug\Online_Bus_Ticket.exe
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\bin\Debug\Online_Bus_Ticket.pdb
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.csproj.AssemblyReference.cache
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.Form1.resources
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.Payment.resources
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.Properties.Resources.resources
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.Register.resources
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.Voucher.resources
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.csproj.GenerateResource.cache
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.csproj.CoreCompileInputs.cache
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.exe
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.pdb
+D:\C#\Online_Bus_Ticket\Online_Bus_Ticket\obj\Debug\Online_Bus_Ticket.exe.config
